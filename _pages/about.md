@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 > Hello! My name is Aaron, and I am a recent graduate from Texas A&M University with a Bachelor's of Science in Electrical Engineering. My journey through the vibrant world of electrical engineering has been both challenging and exhilarating, and I’m excited to bring my expertise and passion to the industry.
 
 ### Educational Background
-  I earned my Bachelor of Science in Electrical Engineering from Texas A&M University, where I immersed myself in a rigorous curriculum and developed a strong foundation in electrical systems, circuit design, and electronics. During my time at Texas A&M, I had the privilege of working with cutting-edge technology and collaborating with some of the brightest minds in the field.
+  I earned my Bachelor of Science in Electrical Engineering and a minor in Mathematics from Texas A&M University, where I immersed myself in a rigorous curriculum and developed a strong foundation in electrical systems, circuit design, and electronics. During my time at Texas A&M, I had the privilege of working with cutting-edge technology and collaborating with some of the brightest minds in the field.
 
 ### Skills and Expertise
 - 3D/CAD Modeling: Knowledgable in utilizing software such as AutoCAD, Revit, Cinema4D, and Blender.
