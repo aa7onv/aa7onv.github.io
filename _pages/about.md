@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Electrical Engineer, Designer, and Artist
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Corpus Christi, Tx 78414</p>
+    <p>Corpus Christi, TX 78414</p>
     <p>Open for relocation</p>
     <p>U.S. Citizen</p>
 
@@ -17,9 +17,24 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+*This website was started on 8/19/24 and is still a work in progress ❤️*
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+> Hello! My name is Aaron, and I am a recent graduate from Texas A&M University with a Bachelor's of Science in Electrical Engineering. My journey through the vibrant world of electrical engineering has been both challenging and exhilarating, and I’m excited to bring my expertise and passion to the industry.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+### Educational Background
+  I earned my Bachelor of Science in Electrical Engineering from Texas A&M University, where I immersed myself in a rigorous curriculum and developed a strong foundation in electrical systems, circuit design, and electronics. During my time at Texas A&M, I had the privilege of working with cutting-edge technology and collaborating with some of the brightest minds in the field.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+### Skills and Expertise
+- 3D/CAD Modeling: Knowledgable in utilizing software such as AutoCAD, Revit, Cinema4D, and Blender.
+- Circuit Design: Proficient in creating and analyzing complex circuit designs.
+- System Integration: Experienced in integrating electrical systems and ensuring seamless operation.
+- Problem-Solving: Adept at troubleshooting and resolving technical issues efficiently.
+- Programming: Well versed in many programming languages including Python, C++, Javascript and many more
+
+### Passion and Interests
+  Beyond my professional work, I’m passionate about VFX, photography, and music production. I enjoy combining many of my creative skills to create artworks that help to inspire others. I always have multiple personal project going on that help keep me busy. I also try to stay up to date with all the latest technologies that could potentially help me in my personal or proffesional works.  
+
+### Looking Ahead
+  I am eager to contribute to the world of engineering. My goal is to leverage my skills and knowledge to drive innovation and solve real-world challenges in the field of electrical engineering.
+
+  Thank you for visiting my page. I look forward to connecting and exploring new opportunities to make an impact in the world of electrical engineering. If you have any questions feel free to contact me with any of the links below.
