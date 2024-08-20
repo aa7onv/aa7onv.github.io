@@ -10,5 +10,3 @@ toc:
   sidebar: left
 ---
 <embed src="https://aa7onv.github.io/assets/pdf/resume.pdf" width="100%" height="870px" type="application/pdf">
-
-[Download PDF](https://aa7onv.github.io/assets/pdf/resume.pdf)
