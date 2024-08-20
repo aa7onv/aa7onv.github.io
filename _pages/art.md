@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3D/2D Deesigns
+title: 3D/2D Designs
 permalink: /art/
 description: My growing collection of multi-media artforms. Under Construction
 nav: true
