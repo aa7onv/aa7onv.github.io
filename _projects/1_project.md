@@ -2,7 +2,7 @@
 layout: page
 title: Smart Indoor Watering System
 description: Capstone project sponsered by Texas Instruments
-img: assets/img/12.jpg
+img: assets/img/siws.png
 importance: 1
 category: work
 related_publications: false
