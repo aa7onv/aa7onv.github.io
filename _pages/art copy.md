@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
-description:
-nav: true
-nav_order: 1
-display_categories: [work, fun]
+title: 3D/2D Designs
+permalink: /art2/
+description: My growing collection of multi-media artforms. Under Construction
+nav: false
+nav_order: 3
+display_categories: [3D renders, 2D Designs, Photography]
 horizontal: false
 ---
 
