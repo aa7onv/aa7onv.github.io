@@ -5,7 +5,7 @@ permalink: /art/
 description: My growing collection of multi-media artforms. Under Construction
 nav: true
 nav_order: 3
-display_categories: [3D  renders, 2D Designs,  Photography]
+display_categories: [3D renders, 2D Designs, Photography]
 horizontal: false
 ---
 
