@@ -8,6 +8,6 @@ category: work
 related_publications: false
 ---
 
-Sorry, more info will be added soon
+Sorry, more info will be added soon!
 
 While you wait for me to add more details, check out the dummy website I made so you can demonstrate functionality without the physical hardware [web-link](smartindoorwatering.site)
