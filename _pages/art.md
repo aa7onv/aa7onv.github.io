@@ -7,12 +7,19 @@ nav: true
 nav_order: 3
 toc:
   beginning: true
----
-
-
-# 3D Render
 
 ---
+<p> more to still upload </p>
+
+# 3D Renders
+
+---
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/abst1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/flower2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -53,6 +60,9 @@ toc:
         {% include figure.liquid loading="eager" path="assets/img/header.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+<p></p>
+
+# Logo Design
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -81,6 +91,7 @@ toc:
     </div>
 </div>
 
+<p></p>
 # Photography
 
 ---
