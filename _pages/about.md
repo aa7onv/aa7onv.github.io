@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 > Hello! My name is Aaron, I am a recent graduate from Texas A&M University with a Bachelor's of Science in Electrical Engineering. My journey through the vibrant world of electrical engineering has been both challenging and exhilarating, and I’m excited to bring my expertise and passion to the industry.
 
 ### Educational Background
-  I earned my Bachelor of Science in Electrical Engineering and a minor in Mathematics from Texas A&M University, where I immersed myself in a rigorous curriculum and developed a strong foundation in electrical systems, circuit design, and electronics. During my time at Texas A&M, I had the privilege of working with cutting-edge technology and collaborating with some of the brightest minds in the field.
+  I earned my Bachelor of Science in Electrical Engineering and a minor in Mathematics from Texas A&M University, where I immersed myself in a rigorous curriculum and developed a strong foundation in electrical systems, circuit design, and electronics. Here you can find some of my [relevant coursework](/courses).
 
 ### Skills and Expertise
 - 3D/CAD Modeling: Knowledgable in utilizing software such as AutoCAD, Revit, Cinema4D, and Blender.
@@ -32,7 +32,7 @@ social: true # includes social icons at the bottom of the page
 - Programming: Well versed in many programming languages including Python, C++, Javascript and many more
 
 ### Passion and Interests
-  Beyond my professional work, I’m passionate about VFX, photography, and music production. I enjoy combining many of my creative skills to create artworks that help to inspire others. I always have multiple personal project going on that help keep me busy. I also try to stay up to date with all the latest technologies that could potentially help me in my personal or proffesional works.  
+  Beyond my professional work, I’m passionate about VFX, photography, and music production. I enjoy combining many of my creative skills to create artworks that help to inspire others. I always have multiple personal project going on that help keep me busy. I try to stay up to date with all the latest technologies that could potentially help me in my personal or profesional works. While not directly relevant to engineering, I hope these skills reflect my adaptability, eagerness to learn, and readiness to explore new challenges, all of which I believe are valuable assets in any engineering role.
 
 ### Looking Ahead
   I am eager to contribute to the world of engineering. My goal is to leverage my skills and knowledge to drive innovation and solve real-world challenges in the field of electrical engineering.

@@ -16,9 +16,16 @@ toc:
 ---
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/abst1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        <img src="../../assets/img/abst1.gif" alt="Project Visualization" style="width:100%;">
     </div>
 </div>
+<!-- <img src="../../assets/img/abst1.gif" alt="Project Visualization" style="width:100%;"> -->
+
+<!-- <div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/abst1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div> -->
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
