@@ -7,8 +7,11 @@ importance: 1
 category: work
 related_publications: false
 ---
-# Objective: 
 
+This page is a **major** work in progess. Finding a way to put out the mass amount of information in an easy to digest way for those unfamiliar requires a lot of planning. So layouts and styling are subject to change into a more professional looking manner. 
+
+# Objective: 
+---
 <p>
 Simplify Maintenance: Create a user-friendly system that allows users to monitor the health of all of their plants. 
 </p>
@@ -23,13 +26,53 @@ Enhance User Confidence: Provide a solution that assists beginner hobbyists in o
 </p>
 
 ## High Level Block Diagram
+---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blockdiagram.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<p></p>
+
+## Project Overview
+---
+<p> Sorry, more info will be added soon! For now here is a system poster that gives an decent overiew of the project </p>
+
+<a href="../assets/pdf/siws_poster.pdf" target="_blank">View Poster</a>
+<p></p>
+
+## My Contributions
+---
+* Wirelss Communications
+  * UART/BLE Protocols for microcontroller (ESP32)
+  * Subitem 2.2
+
+* Microcontroller Programming
+  * Added functionality to ESP-32 and BeagleBone Play using  C/C++ code
+
+* Auotmation Scripts
+  * Read, write, move, delete various files using Python
+  * Email Server with Python
+
+* Web Design
+  * Front End UI/UX using HTML/JS/CSS
+  * Backend/Server side integrations with Database (SQL) and PHP
+
+<p></p>
+
+## Technical Documents
+<p>Will be added soon</p>
+---
+
+<h5>Interface Control Document</h5> 
+---
+<h5>Functional System Requiremnts</h5> 
+---
+<h5> System Validation</h5>
+---
+<h5>Interface Control Document</h5> 
+<a href="../assets/pdf/icd.pdf" target="_blank">SIWS - ICD</a>
+---
 
 
-## Sorry, more info will be added soon!
-
-For now heres a [demo link](https://youtu.be/FH7ltv5X_BM?si=BqQHeCpQRMQLn-dq)
+### For now heres a [demo link](https://youtu.be/FH7ltv5X_BM?si=BqQHeCpQRMQLn-dq)
