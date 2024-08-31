@@ -37,8 +37,7 @@ Enhance User Confidence: Provide a solution that assists beginner hobbyists in o
 ## Project Overview
 ---
 <p> Sorry, more info will be added soon! For now here is a system poster that gives an decent overiew of the project </p>
-
-<a href="../assets/pdf/siws_poster.pdf" target="_blank">View Poster</a>
+[View Poster](https://drive.google.com/file/d/1LwxxLzvH-8JU3rZa3s1Pk7L9T3lRIcJr/view?usp=sharing)
 <p></p>
 
 ## My Contributions
@@ -71,7 +70,7 @@ Enhance User Confidence: Provide a solution that assists beginner hobbyists in o
 <h5> System Validation</h5>
 ---
 <h5>Interface Control Document</h5> 
-<a href="../assets/pdf/icd.pdf" target="_blank">SIWS - ICD</a>
+[SIWS - ICD](https://drive.google.com/file/d/1FwLE00-ql8H6-ek0390Vu6HX0ti8cycj/view?usp=sharing)
 ---
 
 
