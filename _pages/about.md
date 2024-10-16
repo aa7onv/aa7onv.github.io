@@ -17,7 +17,6 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-*This website was started on 8/19/24 and is still a __work in progress__* ❤️
 
 > Hello! My name is Aaron, I am a recent graduate from Texas A&M University with a Bachelor's of Science in Electrical Engineering. My journey through the vibrant world of electrical engineering has been both challenging and exhilarating, and I’m excited to bring my expertise and passion to the industry.
 
