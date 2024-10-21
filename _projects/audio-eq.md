@@ -28,7 +28,7 @@ This buffer amplifier provides a buffered output of the input signal to be filte
     </div>
 </div>
 
-## Stage 2: Inverting Buffer circuit
+## Stage 2: Voltage Offset circuit
 The next stage is a voltage offset circuit. The TL072 op amp is unable to amplify the negative peaks of the input signal  since we are using a single 12V positive rail. 
 So we need to offset the voltage 6V. The offset is made up of a voltage divider, along with 3 capacitors that act as filter before the signal gets sent to the positive feedback of the opamp.
 

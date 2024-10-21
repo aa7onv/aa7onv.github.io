@@ -27,7 +27,7 @@ social: true # includes social icons at the bottom of the page
 - 3D/CAD Modeling: Knowledgable in utilizing software such as AutoCAD, Revit, Cinema4D, and Blender.
 - Circuit Design: Proficient in creating and analyzing complex circuit designs.
 - System Integration: Experienced in integrating electrical systems and ensuring seamless operation.
-- Problem-Solving: Adept at troubleshooting and resolving technical issues efficiently.
+- Substation Design: Adept at power design and analysis.
 - Programming: Well versed in many programming languages including Python, C++, Javascript and many more
 
 ### Passion and Interests
